@@ -1,2 +1,2 @@
 My first readme
-README update frome gihub.com
+README update frome gihub.com 
