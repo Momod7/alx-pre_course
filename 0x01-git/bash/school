@@ -1,14 +1,3 @@
 #!/bin/bash
-<<<<<<< HEAD
-echo "School"
-=======
-echo "The school is open"
-(2) An edit session for this file crashed.
-    If this is the case, use ":recover" or "vim -r school"
-        to recover the changes (see ":help recovery").
-	    If you did this already, delete the swap file "school"
-	        to avoid this message.
-		
-		Swap file "school" already exists!
-		[O]pen Read-Only, (E)dit anyway, (R)ecover, (Q)uit, (A)bort: "
->>>>>>> update_script
+echo "The school is open!
+"
